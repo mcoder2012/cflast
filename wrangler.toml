@@ -1,0 +1,7 @@
+name = "name"
+main = "_worker.js"
+compatibility_date = "2024-11-01"
+
+[[kv_namespaces]]
+binding = "K"
+id = "你的KV命名空间ID"
