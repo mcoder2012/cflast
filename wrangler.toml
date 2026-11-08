@@ -1,9 +1,9 @@
-name = "GitHub仓库名"
+name = "cflast"
 main = "_worker.js"
 compatibility_date = "2024-11-01"
 
 [vars]
-L = "你的登录路径"
+L = "auto"
 
 [[kv_namespaces]]
 binding = "K"
